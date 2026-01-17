@@ -1,4 +1,4 @@
-# mealdb-auth-etl-api
+# Mealdb-auth-etl-api
 
 A secure FastAPI backend that performs ETL (Extract, Transform, Load) on data from TheMealDB API, stores it in MySQL, and exposes JWT-protected, role-based APIs.
 
