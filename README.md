@@ -9,8 +9,8 @@ A secure FastAPI backend that performs ETL (Extract, Transform, Load) on data fr
 - Data transformation with pricing and affordability classification
 - JWT-based authentication with Argon2 password hashing
 - Role-Based Access Control (RBAC)
--- Admin: View all meals and trigger data synchronization
--- User: View only affordable meals (price < 1500)
+- **Admin: View all meals and trigger data synchronization**
+- **User: View only affordable meals (price < 1500)**
 
   ## Installation
 
